@@ -1,0 +1,11 @@
+1. Conseguir el repositori.
+2. Només treballarem en el Back-End, el Front ve donat al repositori.
+3. $ npm install
+4. $ npm start
+5. Configurar un server express bàsic.
+6. Funcionalitat de l'aplicació (rutes):  
+    Veure les tasques (GET).
+    Afegir una tasca (POST).
+    Veure els detalls d'una tasca (GET).
+    Modificar una part d'una tasca (PATCH).
+    Eliminar una tasca (DELETE).
